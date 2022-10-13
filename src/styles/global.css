@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+.logo {
+    animation: logoAnimated infinite 20s linear;
+}
+
+.gradient {
+    position: relative;
+    background-image: radial-gradient(50% 50% at 50% 50%, #81D8F7 0%, rgba(129, 216, 247, 0.05) 0.01%, rgba(129, 216, 247, 0) 100%);
+
+}
+
+@keyframes logoAnimated {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
