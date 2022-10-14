@@ -1,4 +1,4 @@
-<p align='center'><img width='150' src="./.github/logo.png"/></p>
+<p align='center'><img width='400' src="./.github/logo.png"/></p>
 <h1 align='center'>IgniteLab 3 - Design System</h1>
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/ignitelab3-designsystem?color=81D8F7">
